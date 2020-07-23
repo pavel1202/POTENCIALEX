@@ -1,0 +1,27 @@
+@import "./global.scss";
+@import "./normalize.scss";
+
+@import "~bootstrap/scss/bootstrap";
+@import "~bootstrap/scss/bootstrap";
+//-------------------fonts----------------------
+@import url('../fonts/fonts.scss');
+
+
+
+//---------------------pages---------------------
+
+@import "../pages/index/index.scss";
+
+
+//---------------------blocks--------------------
+@import "../blocks/header/header.scss";
+@import "../blocks/slider/slider.scss";
+@import "../blocks/product-properties/product-properties.scss";
+@import "../blocks/form/form.scss";
+
+
+
+
+
+
+
